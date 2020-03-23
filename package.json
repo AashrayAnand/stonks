@@ -1,0 +1,14 @@
+{
+  "name": "stonks",
+  "version": "1.0.0",
+  "description": "simple and intuitive stock management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashray Anand",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
