@@ -56,3 +56,5 @@ const setTicker = (ticker, data) => {
         }
     });
 };
+
+console.log("changes");
