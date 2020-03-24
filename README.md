@@ -76,8 +76,8 @@ App is broken down into concrete services for each core functionality:
    2. name
    3. email
    4. encrypted password
-2. Stock DB: Relational DB for storing stock ticker data, should include:
-   1. stock ticker symbol (primary key)
+2. Stock DB: Cached data service which stores stock ticker data
+   1. stock ticker symbol (key)
    2. timestamp
    3. current price
    4. $ change
